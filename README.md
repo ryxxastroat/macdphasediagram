@@ -1,1 +1,1 @@
-# phasediagram
+# MACD vs MA plot
